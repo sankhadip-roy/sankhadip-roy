@@ -1,15 +1,17 @@
-<svg viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
-    <path fill="none" stroke="#6c5ce7" stroke-width="3" d="M 100 300 A 200 200 0 0 1 500 300">
-        <animate
-            attributeName="d"
-            dur="5s"
-            repeatCount="indefinite"
-            values="M 100 300 A 200 200 0 0 1 500 300;
-                    M 300 100 A 400 400 0 0 1 300 500;
-                    M 500 100 A 200 200 0 1 0 100 500;
-                    M 300 400 A 100 100 0 0 1 500 200;
-                    M 100 300 A 200 200 0 0 1 500 300"
-            keyTimes="0; 0.2; 0.4; 0.6; 1"
-        />
-    </path>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+  <rect x="50" y="50" width="400" height="400" fill="none" stroke="black" stroke-width="3">
+    <animate attributeName="x" from="50" to="450" dur="5s" repeatCount="indefinite" />
+  </rect>
+  <circle cx="150" cy="150" r="50" fill="blue">
+    <animate attributeName="cx" from="150" to="450" dur="5s" repeatCount="indefinite" />
+    <animate attributeName="cy" from="150" to="350" dur="5s" repeatCount="indefinite" begin="3s"/>
+  </circle>
+  <circle cx="350" cy="350" r="50" fill="green">
+    <animate attributeName="r" from="50" to="100" dur="5s" repeatCount="indefinite" begin="2s"/>
+  </circle>
+  <path d="M 250,50 L 450,250 L 250,450 Z" fill="purple">
+    <animate attributeName="d" from="M 250,50 L 450,250 L 250,450 Z" to="M 50,450 L 250,250 L 450,50 Z" dur="5s" repeatCount="indefinite" begin="4s"/>
+  </path>
+  <text x="250" y="250" font-size="50" text-anchor="middle" fill="white">Sankhadip</text>
+  <polyline points="50,450 150
