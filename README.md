@@ -3,6 +3,6 @@
  -->
 ### [Connect with me 💬](www.linkedin.com/in/sankhadip-roy)
 <p align="left"> 
-  Visitor count<br>
+  Visitors 
   <img src="https://profile-counter.glitch.me/Sankhadip-Roy/count.svg" />
 </p>
