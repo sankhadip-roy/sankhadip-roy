@@ -1,0 +1,15 @@
+<svg viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+    <path fill="none" stroke="#6c5ce7" stroke-width="3" d="M 100 300 A 200 200 0 0 1 500 300">
+        <animate
+            attributeName="d"
+            dur="5s"
+            repeatCount="indefinite"
+            values="M 100 300 A 200 200 0 0 1 500 300;
+                    M 300 100 A 400 400 0 0 1 300 500;
+                    M 500 100 A 200 200 0 1 0 100 500;
+                    M 300 400 A 100 100 0 0 1 500 200;
+                    M 100 300 A 200 200 0 0 1 500 300"
+            keyTimes="0; 0.2; 0.4; 0.6; 1"
+        />
+    </path>
+</svg>
