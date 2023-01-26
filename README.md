@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Sankhadip-Roy.Sankhadip-Roy)
  -->
  <h1>SANKHADIP ROY</h1>
- ### [Connect with me 💬](www.linkedin.com/in/sankhadip-roy) 
+ ### [Connect with me 💬](https://sankhadiproy.Live) 
 <p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Sankhadip-Roy/count.svg" />
