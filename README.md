@@ -8,7 +8,7 @@
 >>   - Actively participating in various projects
 >>   - ***Collaborating*** with other developers to create innovative solutions. -->
 
-<p align="center"> 
+<p align="left"> 
   Visitors <br>
   <img src="https://profile-counter.glitch.me/Sankhadip-Roy/count.svg" />
 </p>
