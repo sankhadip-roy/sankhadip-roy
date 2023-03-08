@@ -8,5 +8,9 @@
 >>   - Actively participating in various projects
 >>   - ***Collaborating*** with other developers to create innovative solutions. -->
 
-  `Visitors:`
-  <br><img src="https://profile-counter.glitch.me/Sankhadip-Roy/count.svg" />
+`Visitors:`
+<br><img src="https://profile-counter.glitch.me/Sankhadip-Roy/count.svg" />
+  
+`Stats:`
+<br><img src="https://github-readme-stats.vercel.app/api?username=Sankhadip-Roy&show_icons=true&count_private=true&hide_border=true" align="center" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sankhadip-Roy&" alt="codersahel" />
