@@ -6,7 +6,7 @@
 `Visitors:`
 <br><img src="https://profile-counter.glitch.me/Sankhadip-Roy/count.svg" />
   
-`Stats:`
+<!--`Stats:`-->
 
 <!--
 <br><img align="center" width="300px" height="150px" src="https://github-readme-stats.vercel.app/api?username=Sankhadip-Roy&show_icons=true&count_private=true&hide_border=true"/>
