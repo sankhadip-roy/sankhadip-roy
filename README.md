@@ -3,9 +3,13 @@
 
 <!--**Want to be an enthusiastic open source contributor**-->
 
-`Visitors:`
-<br><img src="https://profile-counter.glitch.me/Sankhadip-Roy/count.svg" />
-  
+<!-- `Visitors:` -->
+<!-- <br> -->
+<img width="100px" height="15px" src="https://profile-counter.glitch.me/Sankhadip-Roy/count.svg" />
+
+I’m looking to collaborate on projects involving following stacks: <br>
+Django, Mern Stack, Next, Flask, Docker, React Native, Expo
+
 <!--`Stats:`-->
 
 <!--
